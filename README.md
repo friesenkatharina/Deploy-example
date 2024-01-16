@@ -11,7 +11,7 @@ Currently, two official plugins are available:
                     <-------------------------------------------------->
                                     ****\*\*\*\*****
 
-  ** ☺️ How to deploy project from local to github and than to Render.com ☺️ **
+# ☺️ How to deploy project from local to github and than to Render.com ☺️ \*\*
 
 1. create one new Repositorie on Github
 
