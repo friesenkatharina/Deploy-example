@@ -14,7 +14,7 @@ Currently, two official plugins are available:
 
 
 
-              **How to deploy project from local to github and than to Render.com**
+              **  	☺️ How to deploy project from local to github and than to Render.com  	☺️ **
 
 1. create one new Repositorie on Github
 
@@ -40,9 +40,9 @@ Currently, two official plugins are available:
 10. go to vite.config.js and add under the plugins: the following lines of code
     base: '/name of the project'
 
-11. type npm run deploy in Terminal to add to package.json File "deploy": "gh-pages -d dist",
+11. type `npm run deploy` in Terminal to add to package.json File "deploy": "gh-pages -d dist",
 
 - go to GitHub repo and refresh the page. now you should see 2 branches
 - go to your repo and click on the settings button right next to "about"! then click on the checkbox "Use your GitHub Pages website" and apply your settings
 
-These steps describe the process of creating, developing, and deploying a web application using React and Vite, as well as its deployment to GitHub Pages
+🙌 These steps describe the process of creating, developing, and deploying a web application using React and Vite, as well as its deployment to GitHub Pages
