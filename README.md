@@ -29,8 +29,7 @@ Currently, two official plugins are available:
 6. npm run dev to open on local server 3000
 
 7. npm install gh-pages --save-dev (The command installs the gh-pages package as a development dependency for a Node.js project.)
-   (DE:Installiert das Paket gh-pages als Entwicklungsabhängigkeit für ein Node.js-Projekt.
-   übersetze das auf englisch)
+   (DE:Installiert das Paket gh-pages als Entwicklungsabhängigkeit für ein Node.js-Projekt.)
 
 8. go to package.json and add the following lines of code as a property: "homepage": "https://github.com/{username}/{repo-name}.git", this is the link to your repo (you can copy it from the address bar on GitHub)
 
