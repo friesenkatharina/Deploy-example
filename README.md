@@ -39,6 +39,8 @@ Currently, two official plugins are available:
 
 11. type `npm run deploy` in Terminal to add to package.json File "deploy": "gh-pages -d dist",
 
+12. mit 1. git add . 2. git commit -m "your commit" 3. git push update your github repo
+
 - go to GitHub repo and refresh the page. now you should see 2 branches
 - go to your repo and click on the settings button right next to "about"! then click on the checkbox "Use your GitHub Pages website" and apply your settings
 
